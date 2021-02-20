@@ -8,7 +8,7 @@ db = Database('store.db')
 # creating app main window
 app = Tk()
 # and its configuration
-app.geometry('750x350')
+app.geometry('750x450')
 app.title('Store Manager')
 
 ########## писать начинаем здесь ##########
